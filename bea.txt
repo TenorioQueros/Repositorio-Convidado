@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 OIEEEEEEEEEEE
+=======
+Ola, hoje vamos aprender a utilizar o github.
+>>>>>>> 7158d64fce82f77ce9a34af9ea2aba484ba04f71
